@@ -12,8 +12,17 @@ A developer from India<br>
 1st year student at JUIT Waknaghat<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aviral.g.__/)
+## 🌐 Reach Me Here:
+<a href="https://www.instagram.com/aviral.g.__/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:231030227@juitsolan.in" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://t.me/AviralGupta7" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 

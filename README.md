@@ -10,8 +10,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 💫 About Me:
-A developer from India<br>
-1st year student at JUIT Waknaghat<br>
+<b>A developer from India<br>
+1st year student at JUIT Waknaghat<br></b>
 
 ## 🌐 Reach Me Here:
 <a href="https://www.instagram.com/aviral.g.__/" style="text-decoration: none;">

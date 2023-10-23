@@ -41,7 +41,9 @@
 # Holopin
 [![An image of @=aviralgupta7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aviralgupta7)](https://www.holopin.io/@aviralgupta7#)
 
-## 🏆 GitHub Trophies
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aviral-Gupta7&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

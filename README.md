@@ -14,7 +14,7 @@
 1st year student at JUIT Waknaghat<br></b>
 
 ## 🌐 Reach Me Here:
-<a href="https://www.instagram.com/aviral.g.__/" style="text-decoration: none;">
+<a href="https://www.instagram.com/aviral.gupta.__/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:231030227@juitsolan.in" style="text-decoration: none;">

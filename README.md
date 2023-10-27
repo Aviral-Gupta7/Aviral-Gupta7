@@ -23,6 +23,10 @@
 <a href="https://t.me/AviralGupta7" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/aviral-gupta-80b689289/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 
 
 ## 💻 Tech Stack:

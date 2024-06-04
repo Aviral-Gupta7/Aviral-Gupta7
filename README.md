@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<b>18 y/o developer from India<br>
+<b>19 y/o developer from India<br>
 1st year student at JUIT Waknaghat<br></b>
 
 ## 💻 Tech Stack:
